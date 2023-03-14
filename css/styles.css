@@ -58,18 +58,6 @@ body {
     margin: 0 76px 0 0;
 }
 
-.works-img:active {
-    color: inherit;
-    background: linear-gradient(
-            0deg,
-            rgba(77, 90, 229, 0.1),
-            rgba(77, 90, 229, 0.1)
-        ),
-        url(2368.jpg);
-    background-blend-mode: soft-light, normal;
-    border: 1px solid #e7e9fc;
-}
-
 .logo-web {
     color: var(--accent-color);
 }
