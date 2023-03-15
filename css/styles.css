@@ -40,6 +40,7 @@ body {
     background-color: var(--background-color);
     color: var(--main-color);
     font-family: Roboto, sans-serif;
+    font-size: 16px;
     letter-spacing: 0.02em;
     line-height: 1.5;
 }
