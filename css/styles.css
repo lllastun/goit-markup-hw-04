@@ -359,7 +359,7 @@ address {
 .rectangle:hover,
 .rectangle:focus {
     color: var(--second-accent-color);
-    border: var(--second-accent-color);
+    border: 1px solid var(--second-accent-color);
 }
 
 .customers-list {
